@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JoseMiguelHYB/JoseMiguelHYB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there 👋
 
 - 🔭 I’m currently working on ...AZURE Microsft y creación de plugins con JIRA.
+- 🌱 I’m currently learning ...de TODO como python, java, javascript, manejarme en confluence, jira, c++ , c# , git,...
+- 👯 I’m looking to collaborate on ...ningún sitio actualmente.
+- 🤔 I’m looking for help with ... N/A
+- 💬 Ask me about ...cualquier tema.
+- 📫 How to reach me: ...mediante mi web personal, whatsaap (679574301), gmail (josemiguelhyb@gmail.com),...
+- 😄 Pronouns: ...Yo, Tú él, Nosotros, Vosotros, Ustedes, Ellos.
+- ⚡ Fun fact: ...me gusta la ensaladilla rusa.
